@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Marta Studnicka</title>
+    <link>https://martastudnicka.github.io/posts/</link>
+    <description>Recent content in Posts on Marta Studnicka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Aug 2019 14:59:15 -0500</lastBuildDate>
+    
+	<atom:link href="https://martastudnicka.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Network Fall 2018 Posts</title>
+      <link>https://martastudnicka.github.io/posts/networkfall2018/</link>
+      <pubDate>Wed, 07 Aug 2019 14:59:15 -0500</pubDate>
+      
+      <guid>https://martastudnicka.github.io/posts/networkfall2018/</guid>
+      <description>The following three articles were written for The Network - Berkeley Business Law Journal Article Blog - in the Fall of 2018:
+ Survival of the Least Biased: Human v. Machines Can India become a Hub for Women in Technology Enterpreneurship? From Immigration to Information Filtering: Google Shows Its Pro-Immigration Stance  </description>
+    </item>
+    
+    <item>
+      <title>The Network Spring 2018 Posts</title>
+      <link>https://martastudnicka.github.io/posts/networkspring2018/</link>
+      <pubDate>Wed, 07 Aug 2019 14:59:15 -0500</pubDate>
+      
+      <guid>https://martastudnicka.github.io/posts/networkspring2018/</guid>
+      <description>The following two articles were written for The Network - Berkeley Business Law Journal Article Blog - in the Spring of 2018:
+ A President&#39;s Day Gift Volkswagen in Trouble Again?  </description>
+    </item>
+    
+  </channel>
+</rss>
